@@ -15,11 +15,11 @@ Set up the baud rate to whatever you want and ensure your serial monitor matches
 
 Building and running the sample project will produce an output saying.
 
-I am a string!
-I am an unsigned 8 bit value:  123
-I am a signed 8 bit value:  -123
-I am an unsigned 32 bit value:  1234567887
-I am a float:  123.456001
-I am a char:  X
+I am a string! <br />
+I am an unsigned 8 bit value:  123 <br />
+I am a signed 8 bit value:  -123 <br />
+I am an unsigned 32 bit value:  1234567887 <br />
+I am a float:  123.456001 <br />
+I am a char:  X <br />
 
 Feel free to make this fancier.
